@@ -1,0 +1,14 @@
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.exe
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.deps.json
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.runtimeconfig.json
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.runtimeconfig.dev.json
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.dll
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\bin\Debug\netcoreapp3.1\Banco_DanielLores.pdb
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.csproj.AssemblyReference.cache
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.AssemblyInfoInputs.cache
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.AssemblyInfo.cs
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.csproj.CoreCompileInputs.cache
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.dll
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.pdb
+C:\Users\dlores\source\repos\Banco_DanielLores\Banco_DanielLores\obj\Debug\netcoreapp3.1\Banco_DanielLores.genruntimeconfig.cache
